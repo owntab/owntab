@@ -1,0 +1,12 @@
+owntab/owntab
+*.sqlite
+*.txt
+*.out
+.env
+.git/
+.git
+extras/
+release/
+
+server/swagger/files/*.json
+.DS_Store
